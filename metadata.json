@@ -1,0 +1,5 @@
+{
+  "name": "Successcribe Quiz Portal",
+  "description": "A high-performance quiz platform featuring CSV uploads, timed questions, and Gemini-powered explanations, styled with the professional Successcribe aesthetic.",
+  "requestFramePermissions": []
+}
